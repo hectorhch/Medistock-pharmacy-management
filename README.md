@@ -14,6 +14,13 @@
 - Actividad: Proyecto final
 - Curso: Paradigmas de Lenguajes de Programación
 - Semestre: 2026-II
+- Autores:
+  - José Julián Mayta Yaicate
+  - Darlene Keyra Cielo Corrales Villa
+  - Héctor Raúl Huarcaya Chipana
+  - Melissa Lucero Velazques Ccosi
+  - Boris David Vilca Vidal
+  - Cristopher Ezequiel Vela Tamani
 
 
 
